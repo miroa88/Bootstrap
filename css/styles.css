@@ -1,12 +1,12 @@
 .row-header{
     margin: 0px auto;
-    padding: 50px 0px 50px 0px;
+    padding: 0px;
 }
 
 .row-content {
     margin: 0px auto;
     padding: 50px 0px 50px 0px;
-    border-bottom: 3px ridge;
+    border-bottom: 1px ridge;
     min-height: 400px
 }
 
@@ -16,11 +16,17 @@
     padding: 20px 0px 20px 0px;
 }
 
-.jumbotron{
-    padding: 70px 30pc 70px 30px;
+.jumbotron {
+    padding: 70px 0pc 70px 0px;
     margin: 0px auto;
     background: #9575CD;
     color: floralwhite;
+    
 }
 
 
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+}
